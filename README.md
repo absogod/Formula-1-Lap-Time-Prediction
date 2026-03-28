@@ -27,4 +27,3 @@ Clone the repository and install the required dependencies:
 ```bash
 git clone [https://github.com/absogod/Formula-1-Lap-Time-Prediction.git](https://github.com/absogod/Formula-1-Lap-Time-Prediction.git)
 cd Formula-1-Lap-Time-Prediction
-pip install -r requirements.txt
